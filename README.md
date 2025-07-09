@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryu</h1>
-<h3 align="center">A passionate fourth-year computer programming and engineering student from Thailand</h3>
+<h3 align="center">A passionate software engineer Thailand</h3>
 
 - 🔭 I’m currently working on [BigData Project: Anime Recommendation and Analysis](http://6322790120.pythonanywhere.com/)
 
