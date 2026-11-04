@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryu</h1>
-<h3 align="center">A passionate software engineer Thailand</h3>
-
-- 🔭 I’m currently working on [BigData Project: Anime Recommendation and Analysis](http://6322790120.pythonanywhere.com/)
-
-- 🌱 I’m currently learning **React.js**
+<h3 align="center">A passionate software engineer from Thailand</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/RyuNumchon](https://github.com/RyuNumchon)
 
